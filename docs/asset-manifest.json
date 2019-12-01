@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/andriawan.main.css",
+    "main.js": "/static/js/js/andriawan.main.js",
+    "main.js.map": "/static/js/js/andriawan.main.js.map",
+    "runtime-main.js": "/static/js/andriawan.runtime-main.js",
+    "runtime-main.js.map": "/static/js/andriawan.runtime-main.js.map",
+    "static/js/js/andriawan.2.js": "/static/js/js/andriawan.2.js",
+    "static/js/js/andriawan.2.js.map": "/static/js/js/andriawan.2.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9eb084d0a6b84da6ee9efae9f275d1d2.js": "/precache-manifest.9eb084d0a6b84da6ee9efae9f275d1d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/andriawan.main.css.map": "/static/css/andriawan.main.css.map"
+  },
+  "entrypoints": [
+    "static/js/andriawan.runtime-main.js",
+    "static/js/js/andriawan.2.js",
+    "static/css/andriawan.main.css",
+    "static/js/js/andriawan.main.js"
+  ]
+}
